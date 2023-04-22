@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    border: 12px solid red;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 20%;
+}
+
+    .x{
+        display: inline-block;
+        background-color: red;
+        color: white;
+        border-radius: 70%;
+        font-size: 65px;
+        line-height: 70px; 
+        width: 70px;
+        height: 70px;
+        text-align: center;
+      }
+    .x {
+        font-family: Arial, sans-serif;
+      }
+    
+    .x:hover {
+        background-color: greenyellow;
+        cursor: pointer;
+      }
+      
+      a:link {     
+        color: blue;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: Red;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: green;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }
